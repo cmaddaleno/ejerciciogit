@@ -8,6 +8,9 @@ Otra linea
 
 
 Cambio de usuario1 en el archivo demo
+
+cambio de usaurio2
 cambio que genera conflictos con usuario2
+
 
 
